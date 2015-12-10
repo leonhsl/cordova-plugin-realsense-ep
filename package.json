@@ -1,0 +1,38 @@
+{
+  "name": "cordova-plugin-realsense-ep",
+  "version": "1.0.0",
+  "description": "Provides Javascript object realsense.EnhancedPhotography to access Intel RealSense EnhancedPhotography feature",
+  "cordova": {
+    "id": "cordova-plugin-realsense-ep",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crosswalk-project/cordova-plugin-realsense-ep.git"
+  },
+  "keywords": [
+    "cordova",
+    "crosswalk",
+    "realsense",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=4"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=4.2.0"
+    }
+  ],
+  "author": "",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/crosswalk-project/cordova-plugin-realsense-ep/issues"
+  },
+  "homepage": "https://github.com/crosswalk-project/cordova-plugin-realsense-ep#readme"
+}
